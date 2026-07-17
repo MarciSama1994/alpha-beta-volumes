@@ -33,7 +33,7 @@ This is a **pure resource-pack mod**, it contains no compiled Java code, just a
 `fabric.mod.json` (so Fabric Loader recognizes it as a mod and auto-applies its
 `assets` folder as a resource pack) and the overridden `sounds.json`. Because there's
 no code, it doesn't need Fabric API, Minecraft mappings, or a build toolchain to
-produce — the "build" step is just zipping the folder into a `.jar`.
+produce, the "build" step is just zipping the folder into a `.jar`.
 
 ## Installation
 
