@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "alpha_beta_volumes",
+  "version": "1.0.0",
+  "name": "Alpha & Beta Volumes",
+  "description": "Restores the original Alpha/Beta era soundtrack (C418's Minecraft - Volume Alpha & Volume Beta) as the game's background music, and removes every music track added in later updates. Jukebox discs are untouched.",
+  "authors": [
+    "AncientSpider"
+  ],
+  "contact": {},
+  "license": "CC0-1.0",
+  "environment": "client",
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": ">=1.20-"
+  }
+}
